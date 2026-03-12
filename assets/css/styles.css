@@ -8,6 +8,9 @@
 --deep-mocha: #332c23ff;
 }
 
+body {
+  background-color: var(--deep-mocha);
+
 h1 {
   font-family: "PT Serif", serif;
   font-weight: 400;
