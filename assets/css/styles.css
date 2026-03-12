@@ -7,12 +7,13 @@
 --chocolate-plum: #614344ff;
 --deep-mocha: #332c23ff;
 }
+body {
+  background-color: var(--deep-mocha);
+}
 h1 {
   font-family: "PT Serif", serif;
   font-weight: 400;
   font-style: normal;
-}
-h1 {
   color: var(--amethyst-smoke);
 }
 
@@ -20,6 +21,7 @@ h2 {
   font-family: "PT Serif", serif;
   font-weight: 300;
   font-style: normal;
+  color: var(--icy-blue);
 }
 
 p {
