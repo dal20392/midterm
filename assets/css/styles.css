@@ -4,7 +4,7 @@ h1 {
   font-family: "PT Serif", serif;
   font-weight: 400;
   font-style: normal;
-  font-color: green;
+ color: var(--amethyst-smoke);
 }
 
 h2 {
